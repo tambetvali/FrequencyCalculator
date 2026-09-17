@@ -1,3 +1,7 @@
+This task gave two different calculators in various AIs:
+- https://octave-fractal-math.lovable.app/
+- https://laegna-math-frequenc-45ey.bolt.host/
+
 # Frequency Calculator
 
 This repository is a task for frequential calculator for Laegna Math:
