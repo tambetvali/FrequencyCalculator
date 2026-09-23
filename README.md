@@ -2,6 +2,9 @@ This task gave two different calculators in various AIs:
 - https://octave-fractal-math.lovable.app/
 - https://laegna-math-frequenc-45ey.bolt.host/
 
+In the source code implemented, the task is extended for alternative octavian calculator for Laegna-inspired mathematical voyage through special aspects of famous math theories about the essentials of math, constructing a specific superset of tools to enable understanding this aspect of laegna in classic math:
+- https://laegna-octave-lab-frontend.vercel.app/
+
 # Frequency Calculator
 
 This repository is a task for frequential calculator for Laegna Math:
