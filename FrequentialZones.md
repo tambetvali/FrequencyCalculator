@@ -454,18 +454,24 @@ If future work can isolate that structure, define it precisely, and prove its in
 
 ---
 
-This only is enough: music theory applied directly to 1st order integral, with all relations. Octave unit, frequency unit, all operations, including spatial coordinates, are transcended that way to 2nd order music theory which operates in regards to 2nd order: in laegna math, then, and base-4 interpolation, octave distance becomes 4, trivial to interpolate in base-4 number systems especially with other Laegna enchangements.
+# My Next Question
 
-Whole conception:​‌
-- Raise space density with exponent; one can see how 2nd order raises number complexity into two dimensions.​‌
-- Number with matrix of digits, line numbers and char positions, 2D: This happens because: in both dimensions, at the edge in the limit value, topology breaks and the other dimension appears. This is matrix number view in two dimensions.​‌
-- Number with vector of digits, char positions, 1D: Linearly, number passes first the one, then the second complexity class: first the ordinal octaves, the whole infinity; then the second-order octaves.
+Me:
 
-Finally:​‌
-- 4 lines where same digit positions repeat can be used to express 4 zones of curvature, where integral order is line number from bottom to up, while digit value is at each position; space density is added to itself and multiplied by two, which means extended by 2 in addition and multiplication: this bends the curvature and creates topological space of various dimensions.​‌
-- Can you show the normalized mathematics, perhaps taking 4 orders of octave theory but projecting it down to 2 orders with square complexity, simplifyable to base-2 single complexity which is rather it's fractal top, where pyramids collide to their first attractor fields and holograms start to collapse to their fractal head topology maps, archetypes or symbols or classes vs. particulars or identities or instances.
+> This only is enough: music theory applied directly to 1st order integral, with all relations. Octave unit, frequency unit, all operations, including spatial coordinates, are transcended that way to 2nd order music theory which operates in regards to 2nd order: in laegna math, then, and base-4 interpolation, octave distance becomes 4, trivial to interpolate in base-4 number systems especially with other Laegna enchangements.
+> 
+> Whole conception:​‌
+> - Raise space density with exponent; one can see how 2nd order raises number complexity into two dimensions.​‌
+> - Number with matrix of digits, line numbers and char positions, 2D: This happens because: in both dimensions, at the edge in the limit value, topology breaks and the other dimension appears. This is matrix number view in two dimensions.​‌
+> - Number with vector of digits, char positions, 1D: Linearly, number passes first the one, then the second complexity class: first the ordinal octaves, the whole infinity; then the second-order octaves.
+>
+> Finally:​‌
+> - 4 lines where same digit positions repeat can be used to express 4 zones of curvature, where integral order is line number from bottom to up, while digit value is at each position; space density is added to itself and multiplied by two, which means extended by 2 in addition and multiplication: this bends the curvature and creates topological space of various dimensions.​‌
+> - Can you show the normalized mathematics, perhaps taking 4 orders of octave theory but projecting it down to 2 orders with square complexity, simplifyable to base-2 single complexity which is rather it's fractal top, where pyramids collide to their first attractor fields and holograms start to collapse to their fractal head topology maps, archetypes or symbols or classes vs. particulars or identities or instances.
+>
+> On this task, CoPilot's article (with my history so it might already have references to laegna, but the task above is the session context):
 
-On this task, CoPilot's article (with my history so it might already have references to laegna, but the task above is the session context):
+CoPilot:
 
 # Laegna Octave Topology: Complexity, Curvature, Dimensions and Civilizational Scaling
 
