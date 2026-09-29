@@ -1,3 +1,5 @@
+Based on this document, I built [this calculator](https://fzp9h5ycrt34.devv.app/) to help you visually see all the numbers involved.
+
 # What Laegna Appears To Simplify
 
 If the ideas developed in this document and the previous sections are correct, then the primary simplifications are not computational.
