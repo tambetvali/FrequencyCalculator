@@ -1,3 +1,7 @@
+![Gfx](Gfx/LaeNum.png)
+
+<br>
+
 # Frequential calculations with Laegna Number System
 
 Binary system is called base-2 and constitutes of two possible digits. In this system, log-2 and exp-2 are linear and with no irrational loss of non-closed holofractal information loops, such as irrational digits in decimal logarithm and exponent of base 2.
