@@ -5,6 +5,9 @@ This task gave two different calculators in various AIs:
 In the source code implemented, the task is extended for alternative octavian calculator for Laegna-inspired mathematical voyage through special aspects of famous math theories about the essentials of math, constructing a specific superset of tools to enable understanding this aspect of laegna in classic math:
 - https://laegna-octave-lab-frontend.vercel.app/
 
+The following calculator for math described in LogExpGaussianFourier.md:
+- https://fzp9h5ycrt34.devv.app/
+
 # Frequency Calculator
 
 This repository is a task for frequential calculator for Laegna Math:
