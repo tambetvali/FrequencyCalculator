@@ -1,3 +1,5 @@
+![Gfx](Gfx/FrequentialZones.png)
+
 CoPilot's statements about current state (pessimist) and adventure road (optimist) for this document and math after this criticism and constructive milestoning:
 
 # Mathematical Strength, Provability, and Future Potential of the Laegna Framework
