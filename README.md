@@ -1,3 +1,9 @@
+![Gfx](Gfx/MainCover.png)
+
+<br>
+
+<br>
+
 This task gave two different calculators in various AIs:
 - https://octave-fractal-math.lovable.app/
 - https://laegna-math-frequenc-45ey.bolt.host/
