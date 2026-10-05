@@ -1,10 +1,10 @@
 # Simple way to write octaves
 
 Laegna numbers can be written in multiple lines, typically four (from I to E):
-- E: AAAA - integral order 0 component.
+- E: AAAA - integral order 1 component.
 - A: AAAA - integral order 0 component.
-- O: AAAA - integral order 0 component.
-- I: AAAA - integral order 0 component.
+- O: AAAA - differential order 1 component.
+- I: AAAA - differential order 2 component.
 
 This number would equal 1 or lower limit value towards zero:
 - Numbers restart counting at every length: AAAA is 1, just like AAA or A, altough in precision 4. EEEE is maximum of this rank.
