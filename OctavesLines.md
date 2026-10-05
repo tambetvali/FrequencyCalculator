@@ -1,3 +1,155 @@
+# Corrected Octave Structure
+
+The mathematical correction is important, especially for the 2-rank case.
+
+## 1-rank / 1-dimensional measurement
+
+For **1-rank / 1-dimensional measurement**, the octave factor is ×2:
+
+$$
+0.5 \rightarrow 1 \rightarrow 2 \rightarrow 4 \rightarrow 8
+$$
+
+So:
+
+- **0.5** = differential-side rank
+- **1** = lower structural reference
+- **2** = **linear**
+- **4** = next octave
+- **8** = next octave
+
+Thus **2 is normally linear**, not 4.
+
+## 2-rank / 2-dimensional measurement
+
+For **2-rank / 2-dimensional measurement**, if the dimensions are multiplied to obtain an area/volume-like measure, the octave factor becomes:
+
+$$
+2^2 = 4
+$$
+
+Therefore the consistent sequence is:
+
+$$
+0.25 \rightarrow 1 \rightarrow 4 \rightarrow 16 \rightarrow 64 \rightarrow 256
+$$
+
+The sequence **0.25, 1, 4, 16, 256** is missing **64**.
+
+The reason is:
+
+$$
+0.5^2 = 0.25
+$$
+
+$$
+1^2 = 1
+$$
+
+$$
+2^2 = 4
+$$
+
+$$
+4^2 = 16
+$$
+
+$$
+8^2 = 64
+$$
+
+$$
+16^2 = 256
+$$
+
+This gives:
+
+| Rank | 1D | 2D |
+|---:|---:|---:|
+| −2 | 0.5 | 0.25 |
+| −1 | 1 | 1 |
+| 0 | **2** | **4** |
+| +1 | 4 | 16 |
+| +2 | 8 | 64 |
+| +3 | 16 | 256 |
+
+So if **2 is linear in one dimension**, then **4 is linear in two dimensions**.
+
+## 2-dimensional wave recursion
+
+If a recursive component has two independent dimensions, and each dimension doubles at every octave, then its measured area/volume-like quantity multiplies:
+
+$$
+2 \times 2 = 4
+$$
+
+At the next octave:
+
+$$
+4 \times 4 = 16
+$$
+
+then:
+
+$$
+8 \times 8 = 64
+$$
+
+and:
+
+$$
+16 \times 16 = 256
+$$
+
+Thus the dimensional measure grows faster because the octave transformation is applied independently to both dimensions.
+
+In general, if the 1-rank structural value is $r$, then a 2-dimensional measure is:
+
+$$
+R_2 = r^2
+$$
+
+and an $n$-dimensional measure is:
+
+$$
+R_n = r^n
+$$
+
+This distinguishes **structural growth per dimension** from **the resulting multidimensional measure**.
+
+## Correct E–A–O–I structure
+
+The four Laegna lines should be:
+
+| Line | Order |
+|---|---|
+| **E** | integral 1 |
+| **A** | integral 0 |
+| **O** | differential 1 |
+| **I** | differential 2 |
+
+Therefore:
+
+$$
+E = \text{integral order }1
+$$
+
+$$
+A = \text{integral order }0
+$$
+
+$$
+O = \text{differential order }1
+$$
+
+$$
+I = \text{differential order }2
+$$
+
+The important distinction is that the **E–A–O–I lines describe differential/integral order**, while the **1-rank and 2-rank octave sequences describe how structural values scale when the transformation is applied across one or multiple dimensions**.
+
+---
+
 # Simple way to write octaves
 
 Laegna numbers can be written in multiple lines, typically four (from I to E):
@@ -26,34 +178,34 @@ Moving one octave upward means applying the octave growth factor 2:
 Therefore:
 
     differential order 1  →  linear order 0
-              2           →       4
+              1           →       2
 
 or, in your octave notation:
 
     Z   →   X
-    2   →   4
+    1   →   2
 
 The important point is that the *order* moves by one step,
 while the represented structural rank doubles.
 
 Thus:
 
-    Z  = differential 1 = 2
-    X  = linear         = 4
-    Y  = integral 1     = 8
+    Z  = differential 1 = 1
+    X  = linear         = 2
+    Y  = integral 1     = 4
 
 and continuing:
 
-    ZZ = differential 2 = 1
-    Z  = differential 1 = 2
-    X  = linear          = 4
-    Y  = integral 1      = 8
-    YY = integral 2      = 16
+    ZZ = differential 2 = 0.5
+    Z  = differential 1 = 1
+    X  = linear          = 2
+    Y  = integral 1      = 4
+    YY = integral 2      = 8
 
 In this normalization, each octave changes the structural rank
 by a factor of 2:
 
-    ... → 1 → 2 → 4 → 8 → 16 → ...
+    ... → 0.5 → 1 → 2 → 4 → 8 → ...
 
 while the octave/order positions are:
 
@@ -72,7 +224,7 @@ The essential operation is therefore:
 and changing from differential to linear is one such octave:
 
     differential 1 --×2--> linear --×2--> integral 1
-          2                    4                  8
+          1                    2                  4
 
 # Writing currencies in total math system
 
