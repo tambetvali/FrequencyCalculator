@@ -1,5 +1,10 @@
 ![Laegna Octaves](Gfx/LaegnaOctaves.png)
 
+<br>
+
+Here are some visuals and insights from bolt.new:
+- https://frequency-calculator-0ew7.bolt.host/
+
 # Laegna Octaves
 
 The basic octave structure.
