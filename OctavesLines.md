@@ -1,6 +1,6 @@
-# Corrected Octave Structure
+# Laegna Octaves
 
-The mathematical correction is important, especially for the 2-rank case.
+The basic octave structure.
 
 ## 1-rank / 1-dimensional measurement
 
