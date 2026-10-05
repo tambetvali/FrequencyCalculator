@@ -1,6 +1,10 @@
+![Laegna Octaves](Gfx/LaegnaOctaves.png)
+
 # Laegna Octaves
 
 The basic octave structure.
+
+![Octaves Simply](Gfx/OctaveSimp.png)
 
 ## 1-rank / 1-dimensional measurement
 
